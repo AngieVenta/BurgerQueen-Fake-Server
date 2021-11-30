@@ -1,0 +1,29 @@
+{
+  "name": "burgerqueen-fake-server",
+  "version": "1.0.0",
+  "description": "Fake Server for the Burger Queen API Client project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngieVenta/BurgerQueen-Fake-Server.git"
+  },
+  "keywords": [
+    "Fake",
+    "Server",
+    "Burger",
+    "Queen"
+  ],
+  "author": "Angélica Venta",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/AngieVenta/BurgerQueen-Fake-Server/issues"
+  },
+  "homepage": "https://github.com/AngieVenta/BurgerQueen-Fake-Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
