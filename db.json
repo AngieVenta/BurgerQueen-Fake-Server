@@ -228,13 +228,15 @@
         "password": "123456",
         "name": "Angie",
         "role": "chef",
-        "id": 1
+        "dateEntry": "2021-11-26T18:54:37.971Z",
+        "id": 1        
       },
       {
         "email": "diana@BQ.com",
         "password": "123456",
         "name": "Diana",
         "role": "admin",
+        "deliveringTime": "2021-11-25T17:36:32.406Z",
         "id": 2
       },
       {
@@ -242,6 +244,7 @@
         "password": "lunaluna",
         "name": "Luna Araujo",
         "role": "mesero",
+        "dateEntry": "2021-11-26T18:54:37.971Z",
         "id": 3
       }
     ]
