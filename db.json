@@ -222,5 +222,27 @@
         "id": 3
       }
     ],
-    "users": []
+    "users": [
+      {
+        "email": "angie@BQ.com",
+        "password": "123456",
+        "name": "Angie",
+        "role": "chef",
+        "id": 1
+      },
+      {
+        "email": "diana@BQ.com",
+        "password": "123456",
+        "name": "Diana",
+        "role": "admin",
+        "id": 2
+      },
+      {
+        "email": "luna@BQ.com",
+        "password": "lunaluna",
+        "name": "Luna Araujo",
+        "role": "mesero",
+        "id": 3
+      }
+    ]
   }
